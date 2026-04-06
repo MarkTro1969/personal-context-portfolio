@@ -1,0 +1,30 @@
+From https://github.com/MarkTro1969/personal-context-portfolio
+ * branch            main       -> FETCH_HEAD
+   12d4f1f..3bfb455  main       -> origin/main
+Updating 12d4f1f..3bfb455
+Fast-forward
+ HANDOFF-github-sync-setup.md   | 152 +++++++++++++++++++++++++++++++++++++++++
+ HANDOFF.md                     |  54 +++++++++++++++
+ communication-style.md         |  23 +++++++
+ current-projects.md            |  29 ++++++++
+ decision-log.md                |  23 +++++++
+ domain-knowledge.md            |  35 ++++++++++
+ goals-and-priorities.md        |  40 +++++++++++
+ identity.md                    |  17 +++++
+ preferences-and-constraints.md |  42 ++++++++++++
+ role-and-responsibilities.md   |  34 +++++++++
+ team-and-relationships.md      |  77 +++++++++++++++++++++
+ tools-and-systems.md           |  40 +++++++++++
+ 12 files changed, 566 insertions(+)
+ create mode 100644 HANDOFF-github-sync-setup.md
+ create mode 100644 HANDOFF.md
+ create mode 100644 communication-style.md
+ create mode 100644 current-projects.md
+ create mode 100644 decision-log.md
+ create mode 100644 domain-knowledge.md
+ create mode 100644 goals-and-priorities.md
+ create mode 100644 identity.md
+ create mode 100644 preferences-and-constraints.md
+ create mode 100644 role-and-responsibilities.md
+ create mode 100644 team-and-relationships.md
+ create mode 100644 tools-and-systems.md
