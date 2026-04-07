@@ -15,3 +15,4 @@ I lead with positive reinforcement but I am direct — I will rip the band-aid o
 ## What I'm Known For
 
 I am an advanced user of AI tools — particularly Claude, Perplexity, and n8n — and I have built a personal AI infrastructure that includes autonomous email/Slack briefings, branded document generation, and financial reporting automation. I bring a builder's mindset to everything: whether it is automating QuickBooks workflows, designing AV systems, or setting up a Mac Mini as a remote AI workstation, I want to understand how things work and make them work better.
+<!-- sync test 2026-04-06 -->
