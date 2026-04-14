@@ -21,6 +21,7 @@
 - **Perplexity** — Research and information gathering.
 - **n8n** — Workflow automation and orchestration layer. Hosts marks-agent for email/Slack briefings. Explored for iPoint-to-QuickBooks profitability automation.
 - **Dispatch** — iPhone-based access to Claude Code on Mac Mini. Still being evaluated; not yet reliable.
+- **OpenClaw** — Local AI agent running on Mac Mini (ollama/qwen2.5:32b). Connected via Slack (Socket Mode), Telegram, iMessage, and WhatsApp. Config at ~/.openclaw/openclaw.json.
 
 ## Infrastructure
 - **Mac Mini** (Southport) — Primary workstation running Claude Code, n8n, marks-agent. Accessed remotely via Tailscale SSH.
